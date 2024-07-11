@@ -1,9 +1,6 @@
 body {
-    background-color: green
+    background-color: rgb(68, 49, 240)
 }
-
-
-
 main {
     width: 800px;
     margin-left: auto;
@@ -14,12 +11,15 @@ main {
 header {
 
     text-align: center;
+    font-family: "Anton SC", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+      }
 
-}
-
-nav {gap: 20px;
+nav {
+    gap: 20px;
     display: flex;
 align-items: center;
-width:100%
+width:100%;
 justify-content: center;
  }
